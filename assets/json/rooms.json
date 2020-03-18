@@ -1,0 +1,280 @@
+{
+  "0":{
+    "exits":[
+      {"direction": "N"},
+      {"direction": "S"}
+      
+    ],
+    "doors": [		
+    ],
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "1":{
+    "exits":[		      
+      {"direction": "E", "door":{"type":"", "open":false}},
+      {"direction": "S"}
+    ],    
+    "room": {
+      "color": "R",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "2":{
+    "exits":[
+      {"direction": "S"}
+      
+    ],    
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "3":{
+    "exits":[		
+      {"direction": "N"},
+      {"direction": "E"},
+      {"direction": "S"}
+    ],    
+    "room": {
+      "color": "R",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "4":{
+    "exits":[		      
+      {"direction": "W"},
+      {"direction": "S"}		
+      
+    ],    
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "5":{
+    "exits":[		      
+      {"direction": "W"},
+      {"direction": "E", "door":{"type":"", "open":false}},
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "G",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "6":{
+    "exits":[		            
+      {"direction": "W", "door":{"type":"", "open":false}},
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "R",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "7":{
+    "exits":[		            
+      {"direction": "N", "door":{"type":"", "open":false}},
+      {"direction": "W"},
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "8":{
+    "exits":[		            
+      {"direction": "E", "door":{"type":"", "open":false}},      
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "G",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "9":{
+    "exits":[		            
+      {"direction": "N"},
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "R",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "10":{
+    "exits":[
+      {"direction": "W"},
+      {"direction": "S"}
+      
+    ],
+    "doors": [		
+    ],
+    "room": {
+      "color": "G",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "11":{
+    "exits":[		      
+      {"direction": "N"},
+      {"direction": "S"}
+    ],    
+    "room": {
+      "color": "R",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "12":{
+    "exits":[
+      {"direction": "W", "door":{"type":"", "open":false}},  
+      {"direction": "E"},
+      {"direction": "S"}
+      
+    ],    
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "13":{
+    "exits":[		
+      {"direction": "N"},     
+      {"direction": "S"}
+    ],    
+    "room": {
+      "color": "G",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "14":{
+    "exits":[		      
+      {"direction": "N"},
+      {"direction": "E"},
+      {"direction": "S"}		
+      
+    ],    
+    "room": {
+      "color": "R",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "15":{
+    "exits":[		            
+      {"direction": "E"},    
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "R",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "16":{
+    "exits":[		      
+      {"direction": "N"},
+      {"direction": "W"},    
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "17":{
+    "exits":[		            
+      {"direction": "W", "door":{"type":"", "open":false}},
+      {"direction": "E", "door":{"type":"", "open":false}},
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "18":{
+    "exits":[		            
+      {"direction": "N"},
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "Y",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  },
+  "19":{
+    "exits":[		            
+      {"direction": "N"},
+      {"direction": "E"},
+      {"direction": "S"}
+    ],   
+    "room": {
+      "color": "G",
+      "searched":false,
+      "interacted": false,
+      "trapType": "",
+      "monsterType":""
+    }
+  }
+
+}
