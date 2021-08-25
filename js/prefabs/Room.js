@@ -35,13 +35,13 @@ D100Dungeon.Room.prototype.redraw = function () {
     this.addChild(d);
   }
 
-  if (this.roomData.room.searched) {
+  if (this.roomData.room.searched || true) {
     let s = new Phaser.Sprite(this.game, -27.5, 27.5, 'SearchIcon');
     s.anchor.setTo(0,1);
     this.addChild(s);
     
   }
-  if (this.roomData.room.interacted) {
+  if (this.roomData.room.interacted || true) {
     let i = new Phaser.Sprite(this.game, 27.5, 27.5, 'InteractIcon');
     i.anchor.setTo(1,1);
     this.addChild(i);
